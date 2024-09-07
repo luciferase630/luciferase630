@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luciferase630
 - 👀 I’m interested in game developing
-- 🌱 I’m currently learning c++ and java
+- 🌱 I’m currently learning c++ ，python and java
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me  +86 18092740921  wechatid fhx13572070168
 - 😄 Pronouns: he
